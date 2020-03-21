@@ -20,7 +20,7 @@ except ImportError:
 
 colors=['\033[1;31m','\033[1;32m','\033[1;33m','\033[1;34m','\033[1;35m','\033[1;36m']
 W='\033[0m'
-# The Credit For This Code Goes To SpeedX And All Other Contributors Listed At https://github.com/TheSpeedX/TBomb
+# The Credit For This Code Goes To Ãmìt roy And All Other Contributors Listed At https://github.com/TheSpeedX/TBomb
 # If You Wanna Take Credits For This Code, Please Look Yourself Again
 
 country_codes = {
@@ -248,7 +248,7 @@ def banner():
       ██    ██   ██ ██  ██ ██ ▒ ██ ██  ██         
       ██    ██████▒ ▒████▒ ██   ██ █████▒         
       ▒▒    ▒▒▒▒▒▒   ▒▒▒▒  ▒▒   ▒▒ ▒▒▒▒▒          
-                                         """
+       Amit roy                                   """
     print(random.choice(colors)+logo+W)
     print("\n")
 
@@ -450,7 +450,7 @@ def start(target, counter, delay, ch, cc):
         print("             Failed Requests         : ", failed)
         print("==================================================================")
         print("              Use this forAmit fun, not for revenge !!                ")
-        print("              This Bomber Was Created By SpeedX !!                ")
+        print("              This Bomber Was Created By Ãmit !!                ")
         print("==================================================================")
         try:
             result = getapi(target, api, cc)
@@ -619,7 +619,7 @@ if nm == 0:
     print("             Delay               : ", dl)
     print("==================================================================")
     print("              Use this for fun, not for revenge !!                ")
-    print("              This Bomber Was Created By SpeedX !!                ")
+    print("              This Bomber Was Created By amit !!                ")
     print("==================================================================")
     print(W)
     input('\n\nPress CTRL+Z To STOP Bomber... \nPress Enter To Start Bomber...\n')
