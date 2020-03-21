@@ -14,7 +14,7 @@ echo .
 apt install figlet toilet python curl -y
 apt install python3-pip
 pip install -r requirements.txt
-echo This Script Was Made By amitroyX >update.speedx
+echo This Script Was Made By amitroyX >update.Ãmit
 echo Requirements Installed....
 echo Press Enter To Continue...
 read upd
@@ -30,7 +30,7 @@ toilet -f mono12 -F border SpeedX
 echo -e "\e[4;34m This Bomber Was Created By Ãmìt røy \e[0m"
 echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
 echo -e "\e[1;32m           Mail: amitkumar9622770120aaaa@gmail.com \e[0m"
-echo -e "\e[4;32m   YouTube Page: https://www.youtube.com/c/coming soon.. \e[0m"
+echo -e "\e[4;32m   YouTube Page: https://www.youtube.com coming soon.. \e[0m"
 echo " "
 echo -e "\e[4;31m Please Read Instruction Carefully !!! \e[0m"
 echo " "
@@ -99,7 +99,7 @@ echo -e "\e[1;33m      [*]  0n1cOn3 (Stefan)   \e[1;31m"
 echo "         [-] Mail At: 0n1cOn3@gmx.ch"
 echo ""
 echo ""
-echo -e "\e[1;31m This Script is Only For Educational Purposes or To Prank.\e[0m"
+echo -e "\e[1;31m This Script is Only For Educational Purposes or To Prank enjoyment.\e[0m"
 echo -e "\e[1;31m Do not Use This To Harm Others. \e[0m"
 echo -e "\e[1;31m I Am Not Responsible For The Misuse Of The Script. \e[0m"
 echo -e "\e[1;32m Make Sure To Update it If It Does not Work.\e[0m"
@@ -107,8 +107,8 @@ echo  " "
 echo -e "\e[4;31m That's All !!!\e[0m"
 echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
 echo -e "\e[1;32m           Mail: amitkumar9622770120aaaa@gmail.com \e[0m"
-echo -e "\e[1;32m       Whatsapp: https://bit.do/Amitxgit \e[0m"
-echo -e "\e[4;32m   YouTube Page: https://www.youtube.com/c/coming soon.. \e[0m"
+echo -e "\e[1;32m       Whatsapp: https://bit.do/amitkumar9622770120aaaa@gmail.com \e[0m"
+echo -e "\e[4;32m   YouTube Page: https://www.youtube.com coming soon.. \e[0m"
 echo "Press Enter To Go Home"
 read a3
 clear
@@ -121,7 +121,7 @@ toilet -f mono12 -F border SpeedX
 echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
 echo -e "\e[1;32m           Mail: amitkumar9622770120aaaa@gmail.com \e[0m"
 echo -e "\e[1;32m       Whatsapp: https://bit.do/Amitgit \e[0m"
-echo -e "\e[4;32m   YouTube Page: https://www.youtube.com/c/coming soon.. \e[0m"
+echo -e "\e[4;32m   YouTube Page: https://www.youtube.com coming soon.. \e[0m"
 echo " "
 exit 0
 else
